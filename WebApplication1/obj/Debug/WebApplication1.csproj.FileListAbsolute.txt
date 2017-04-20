@@ -55,6 +55,5 @@ C:\Punit\WebApplication1\WebApplication1\bin\DotNetOpenAuth.OAuth.Consumer.xml
 C:\Punit\WebApplication1\WebApplication1\bin\DotNetOpenAuth.OpenId.xml
 C:\Punit\WebApplication1\WebApplication1\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
 C:\Punit\WebApplication1\WebApplication1\bin\DotNetOpenAuth.AspNet.xml
-C:\Punit\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
 C:\Punit\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
 C:\Punit\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
